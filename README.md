@@ -33,3 +33,21 @@ for char in name:
 
     output================
     j o s h i k a 
+
+
+# factorial
+n=int(input("enter the n value"))
+if n==0:
+    f=1
+f=1
+for i in  range(1, n+1):
+    f=f*i
+    print("factorial of", n,"is",f)
+
+    output============
+    enter the n value 5
+factorial of 5 is 1
+factorial of 5 is 2
+factorial of 5 is 6
+factorial of 5 is 24
+factorial of 5 is 120
