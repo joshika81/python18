@@ -51,3 +51,22 @@ factorial of 5 is 2
 factorial of 5 is 6
 factorial of 5 is 24
 factorial of 5 is 120
+
+
+# reverse the string
+s='joshika'
+rev=''
+for c in s:
+    rev=c+rev
+    print(rev)
+
+    output===============
+    j
+oj
+soj
+hsoj
+ihsoj
+kihsoj
+akihsoj
+
+    
